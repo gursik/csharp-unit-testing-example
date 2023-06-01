@@ -12,8 +12,4 @@ namespace MyProject {
             return a + b;
         }
     }
-    
-
 }
-
-
